@@ -1,0 +1,5 @@
+Software engineering tools are designed to deal with complexity.
+There are two types of complexity:
+incidental complexity dominated programming in the early days, e.g. keeping track of stuff in machine-code programs
+intrinsic complexity is the main problem today, e.g. complex system (such as a bank) with a big team. ‘Solution’: structured development, project management tools, …
+We can aim to eliminate the incidental complexity, but the intrinsic complexity must be managed.
